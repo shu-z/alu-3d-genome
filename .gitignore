@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# repo assembly scripts (provenance, not part of the release)
+tools/
+figs/*.R #don't need these for now, include notebook for example maps later 
